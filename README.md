@@ -22,7 +22,7 @@ This repository houses the **Mobility and Perception Subsystem**. Operating as a
 edge-ai-mobile-base/
 ├── cad/                        # 3D printable STL files and mechanical assembly diagrams
 ├── bom/
-│   └── bill_of_materials.md    # Component specs (motors, drivers, compute units)
+│   └── bom.md    # Component specs (motors, drivers, compute units)
 ├── esp_firmware/               # MicroPython code executed directly on the ESP32 HAL
 │   ├── phase1_ap_mode/         # Standalone Wi-Fi Access Point execution script
 │     └── main.py
