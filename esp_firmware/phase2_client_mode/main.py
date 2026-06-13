@@ -5,7 +5,7 @@ import time
 
 # --- Network Configuration ---
 SSID = "Kishan's network "   # <-- CHANGE THIS TO YOUR SSID    
-PASSWORD = "11223399" # <-- CHANGE THIS DUMMPY PASSWORD
+PASSWORD = "11223399" # <-- CHANGE THIS DUMMY PASSWORD
 UDP_PORT = 12345
 # --- 2. Hardware Safety & Pin Definitions (Axle-Split) ---
 # 1kHz frequency is optimal for Cytron drivers
