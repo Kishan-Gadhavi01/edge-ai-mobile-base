@@ -4,8 +4,8 @@ import machine
 import time
 
 # --- Network Configuration ---
-SSID = "Kishan's iPhone"             # Double quotes for the apostrophe!
-PASSWORD = "11223399" # <-- CHANGE THIS
+SSID = "Kishan's network "   # <-- CHANGE THIS TO YOUR SSID    
+PASSWORD = "11223399" # <-- CHANGE THIS DUMMPY PASSWORD
 UDP_PORT = 12345
 # --- 2. Hardware Safety & Pin Definitions (Axle-Split) ---
 # 1kHz frequency is optimal for Cytron drivers
